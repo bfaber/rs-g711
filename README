@@ -1,0 +1,3 @@
+TODO: add alaw conversions. 
+
+Note: testing was done by producing the full spectrum of values from the original c++ code, and testing that the rust translation would give those same values.  See the unit test in lib.rs.
